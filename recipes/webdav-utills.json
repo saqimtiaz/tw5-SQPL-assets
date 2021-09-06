@@ -1,0 +1,11 @@
+{
+	"name": "WebDAV Utils",
+	"repository": "https://github.com/saqimtiaz/tw5-webdav-utils.git",
+	"pluginPaths": [
+		"plugins/sq/webdav/saver",
+		"plugins/sq/webdav/wiki-manager",
+		"plugins/sq/webdav/indexer",
+		"plugins/sq/webdav/backups",
+		"plugins/sq/webdav/uploader"
+	]
+}

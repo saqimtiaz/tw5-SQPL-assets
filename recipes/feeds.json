@@ -1,0 +1,7 @@
+{
+	"name": "Feeds",
+	"repository": "https://github.com/saqimtiaz/tw5-feeds.git",
+	"pluginPaths": [
+		"plugins/sq/feeds"
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"name": "File Uploads",
+	"repository": "https://github.com/saqimtiaz/tw5-file-uploads.git",
+	"pluginPaths": [
+		"plugins/file-uploads",
+		"plugins/github-uploader"
+	]
+}

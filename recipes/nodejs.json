@@ -1,0 +1,10 @@
+{
+	"name": "NodeJS Utils",
+	"repository": "https://github.com/saqimtiaz/tw5-nodejs-utils.git",
+	"pluginPaths": [
+		"plugins/sq/nodejs-uploader",
+		"plugins/sq/nodejs-proxy",
+		"plugins/sq/nodejs-listener",
+		"plugins/sq/nodejs-git-backups"
+	]
+}

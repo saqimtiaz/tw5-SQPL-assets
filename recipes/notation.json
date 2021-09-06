@@ -1,0 +1,7 @@
+{
+	"name": "Notation",
+	"repository": "https://github.com/saqimtiaz/tw5-notation.git",
+	"pluginPaths": [
+		"plugins/sq/notation"
+	]
+}

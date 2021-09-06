@@ -1,0 +1,20 @@
+{
+	"name": "SQ Utils",
+	"repository": "https://github.com/saqimtiaz/tw5-sq-utils.git",
+	"pluginPaths": [
+		"plugins/sq/ui",
+		"plugins/sq/ui/cards",
+		"plugins/sq/ui/image-slider",
+		"plugins/sq/ui/image-gallery",
+		"plugins/sq/ui/lists",
+		"plugins/sq/ui/tags",
+		"plugins/sq/ui/modals-plus",
+		"plugins/sq/ui/render-on-demand",
+		"plugins/sq/ui/resizable",
+		"plugins/sq/ui/settings",
+		"plugins/sq/ui/swipe",
+		"plugins/sq/fetch",
+		"plugins/sq/filters",
+		"plugins/sq/utils"
+	]
+}
