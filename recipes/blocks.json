@@ -1,0 +1,7 @@
+{
+	"name": "Blocks Editor",
+	"repository": "https://github.com/saqimtiaz/tw5-blocks.git",
+	"pluginPaths": [
+		"plugins/sq/blocks"
+	]
+}
