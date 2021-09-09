@@ -1,0 +1,7 @@
+{
+	"name": "Core Plugins",
+	"repository": "https://github.com/Jermolene/TiddlyWiki5.git",
+	"pluginPaths": [
+		"plugins/tiddlywiki/jszip"
+	]
+}
