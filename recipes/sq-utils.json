@@ -9,7 +9,6 @@
 		"plugins/sq/ui/lists",
 		"plugins/sq/ui/tags",
 		"plugins/sq/ui/modals-plus",
-		"plugins/sq/ui/render-on-demand",
 		"plugins/sq/ui/resizable",
 		"plugins/sq/ui/settings",
 		"plugins/sq/ui/swipe",
